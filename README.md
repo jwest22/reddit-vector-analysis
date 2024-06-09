@@ -4,13 +4,8 @@ This project retrieves recent posts and comments from a specified subreddit, gen
 
 ## Table of Contents
 - [Installation](#installation)
+- [Overview](#overview)
 - [Usage](#usage)
-- [Scripts](#scripts)
-  - [Main Script](#main-script)
-  - [Get Comments](#get-comments)
-  - [Vector Embedding](#vector-embedding)
-  - [Analyze Embeddings](#analyze-embeddings)
-- [Clearing Directories](#clearing-directories)
 
 ## Installation
 
