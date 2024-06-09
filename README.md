@@ -42,9 +42,11 @@ This project retrieves recent posts and comments from a specified subreddit, gen
     * The results will be saved to the output directory with a timestamp.
 
 **Comment Clustering Example**:
+<br>
 ![Description of Image](comment-cluster-example.png)
 
 **Semantic Search Example**:
+<br>
 ![Description of Image](semantic-search-example.png)
 
 ## Usage
