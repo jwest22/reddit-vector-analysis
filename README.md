@@ -11,8 +11,8 @@ This project retrieves recent posts and comments from a specified subreddit, gen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repo-name.git
-    cd repo-name
+    git clone https://github.com/jwest22/reddit-vector-analysis.git
+    cd reddit-vector-analysis
     ```
 
 2. Install the required packages:
