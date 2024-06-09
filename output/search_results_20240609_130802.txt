@@ -1,0 +1,14 @@
+Text: I think your range is reasonable. Although it depends if you are looking for a permanent position or contracting position and what country.... I have found contracting to be far more lucrative until the economy shit itself recently, and funding is getting cut., Distance: 1.2139742374420166
+Text: Pretty sure you shouldn’t find it hard finding a UK job that pays more. I’m remote, senior DE in the UK, get paid 10k more than you and that’s still below market rate., Distance: 1.2738511562347412
+Text: Yeah, I wouldn't be surprised if their revenue was closer to ~5 million, i.e. 1000-2000x range, Distance: 1.3759920597076416
+Text: 
+1. SR BI Engineer.
+2. 2 YOE after officially pivoting to data only roles. This is after 6-7 years of more jack of all trades roles in IT which included business analysis and reporting duties, along with some implementation projects.
+3. Ohio (100% remote).
+4. 140k base.
+5. 10% of base. $75k in equity vested over 4 years.
+6. SaaS (but on the business side).
+7. Snowflake, DBT, Python, AWS.
+
+I started this role very recently. I'll be staying here as long as I can. It's a great company with room for growth. Previous role I was at 118k, no bonuses or equity, but still 100% remote., Distance: 1.4371346235275269
+Text: Beware: if you want to work for companies in the US duble taxation could be an issue, Distance: 1.4815311431884766

@@ -88,3 +88,7 @@ def run_vector_analysis(n_top_terms):
 def search_faiss_index(index, query_embedding, top_k=5):
     D, I = index.search(query_embedding, top_k)
     return I, D
+
+def load_faiss_index(index_file):
+    index = faiss.read_index(index_file)
+    return index
