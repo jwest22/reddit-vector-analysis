@@ -23,27 +23,25 @@ This project retrieves recent posts and comments from a specified subreddit, gen
 ### Overview
 
 1. **Reprocessing Data**:
-  * The script will prompt you to decide whether to reprocess posts and comments.
-  * If you choose **yes**:
-    * It will clear the contents of the input, embed, and output directories.
-    * It will then retrieve recent posts and comments from the specified subreddit and generate embeddings.
-    * Embeddings will be clustered and analyzed, and the FAISS index will be built.
+    * The script will prompt you to decide whether to reprocess posts and comments.
+    * If you choose **yes**:
+        * It will clear the contents of the input, embed, and output directories.
+        * It will then retrieve recent posts and comments from the specified subreddit and generate embeddings.
+        * Embeddings will be clustered and analyzed, and the FAISS index will be built.
 
 2. **Using Existing Data**:
-
-  * If you choose **no**:
-    * The script will check for existing embeddings and FAISS index.
-    * If found, it will load the FAISS index and perform the clustering and analysis.
-    * If not found, it will prompt you to reprocess the data.
+    * If you choose **no**:
+        * The script will check for existing embeddings and FAISS index.
+        * If found, it will load the FAISS index and perform the clustering and analysis.
+        * If not found, it will prompt you to reprocess the data.
 
 3. **Performing Similarity Search**:
+    * The script will prompt you to enter a query text.
+    * It will generate the embedding for the query and perform a similarity search using FAISS.
+    * Top k similar posts/comments will be displayed along with their distances.
+    * The results will be saved to the output directory with a timestamp.
 
-  * The script will prompt you to enter a query text.
-  * It will generate the embedding for the query and perform a similarity search using FAISS.
-  * Top k similar posts/comments will be displayed along with their distances.
-  * The results will be saved to the output directory with a timestamp.
-
-Semantic Search Example:
+**Semantic Search Example**:
 ![Description of Image](semantic-search-example.png)
 
 ## Usage
