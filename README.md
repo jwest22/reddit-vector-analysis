@@ -41,6 +41,9 @@ This project retrieves recent posts and comments from a specified subreddit, gen
     * Top k similar posts/comments will be displayed along with their distances.
     * The results will be saved to the output directory with a timestamp.
 
+**Comment Clustering Example**:
+![Description of Image](comment-cluster-example.png)
+
 **Semantic Search Example**:
 ![Description of Image](semantic-search-example.png)
 
