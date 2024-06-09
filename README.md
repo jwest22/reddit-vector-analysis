@@ -31,6 +31,9 @@ The script will:
 * Save the analysis to the output directory.
 * Prompt for a text query and perform a similarity search using FAISS and return similar posts/comments (top_k).
 
+Semantic Search Example:
+![Description of Image](semantic-search-example.png)
+
 ## Usage
 
 Update the variables in `main.py` as desired:
